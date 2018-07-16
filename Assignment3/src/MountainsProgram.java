@@ -12,7 +12,10 @@ public class MountainsProgram
 
 		double random = -steepness + (Math.random() * ((steepness- (-steepness)) ));
 		
-
+		//this is raymond's edit
+		//raymonds here again
+		
+		
 		double nextPoint = prevHeight + random;
 		if(nextPoint > maxHeight)
 		{
