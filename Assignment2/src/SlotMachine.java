@@ -7,11 +7,7 @@ public class SlotMachine
 	public static void main(String[] args)
 	{
 
-//		doubl2e totalAmt = Double.parseDouble(args[0]);
-//		double roundBet = Double.parseDouble(args[1]);
-//		double goal = Double.parseDouble(args[2]);
-//
-//		playMachine(totalAmt, roundBet, goal);
+ // HELLO WORLD THIS IS RAYMOND
 	}
 	
 	// diceRoll method that takes no parameters
